@@ -1,0 +1,4 @@
+Patricio Manzanares, ip: inet 192.168.1.238  netmask 255.255.255.0  broadcast 192.168.1.255, Hora: 11:59
+
+
+Patricio Manzanares, ip: inet 192.168.1.238  netmask 255.255.255.0  broadcast 192.168.1.255, Hora: 11:59
