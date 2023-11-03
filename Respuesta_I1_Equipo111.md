@@ -12,11 +12,4 @@ c-¿Si BETA agrega un archivo los demás integrantes lo ven? Si.
 
 d-¿De qué forma se comunicaron ustedes? Mediante el chat de discord.
 
-e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
-
-
-5-ALFA sube las respuestas a- y b-
-
-6-BETA sube la c- y d-
-
-7-GAMMA sube la e-
+e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github? Mediante el project, ya que podemos ver que ha hecho cada uno y que tareas podemos asignarnos.
