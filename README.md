@@ -1,5 +1,7 @@
 # TP_SO_i1_Equipo111
 
+Bottaro Juan Manuel Patricio Manzanares
+
 a-¿ALFA ve los datos que cargaron los demás en su repositorio?
 Si
 
