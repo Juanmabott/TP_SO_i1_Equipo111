@@ -3,14 +3,14 @@
 Bottaro Juan Manuel Patricio Manzanares
 
 a-¿ALFA ve los datos que cargaron los demás en su repositorio?
-Si
+Si.
 
 b-¿Si ALFA agrega un archivo los demás integrantes lo ven?
-Si
+Si.
 
-c-¿Si BETA agrega un archivo los demás integrantes lo ven?
+c-¿Si BETA agrega un archivo los demás integrantes lo ven? Si.
 
-d-¿De qué forma se comunicaron ustedes?
+d-¿De qué forma se comunicaron ustedes? Mediante el chat de discord.
 
 e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
 
