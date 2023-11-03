@@ -13,7 +13,7 @@ c-¿Si BETA agrega un archivo los demás integrantes lo ven?
 d-¿De qué forma se comunicaron ustedes?
 
 e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
-Mediante el Projects
+
 
 5-ALFA sube las respuestas a- y b-
 
